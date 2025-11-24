@@ -1,0 +1,42 @@
+{
+    "home": {
+        "title": "CARTELERA ISMUNT - A. De Boeck",
+        "subtitle": "Cartelera - Blog informativo",
+        "instructions": "Acceda a la sección de cada materia desde el menú Materias.",
+        "contact": "Contacto: adolfodeboeck@gmail.com (Especificar nombre de alumno y asunto).",
+        "generalInfo": "El acceso a las diapositivas de clase quedará restringido para todas las asignaturas, a excepción de contrapunto tonal, desde el día 2/7/2025.",
+        "notices": []
+    },
+    "materias": {
+        "tecnicas": {
+            "id": "tecnicas",
+            "name": "Técnicas compositivas desde el Siglo XX",
+            "content": "",
+            "resources": []
+        },
+        "lectura": {
+            "id": "lectura",
+            "name": "Lectura e interpretación de la Música Contemporánea",
+            "content": "",
+            "resources": []
+        },
+        "contrapunto": {
+            "id": "contrapunto",
+            "name": "Contrapunto Tonal",
+            "content": "",
+            "resources": []
+        },
+        "historia2": {
+            "id": "historia2",
+            "name": "Historia de la Música II",
+            "content": "",
+            "resources": []
+        },
+        "historia3": {
+            "id": "historia3",
+            "name": "Historia de la Música III",
+            "content": "",
+            "resources": []
+        }
+    }
+}
